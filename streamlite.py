@@ -141,7 +141,10 @@ with col2:
 
         st.info(
             "**Disclaimer:** This is a screening tool, not a diagnostic test.\n"
+            "Created using STEPS Survey data for Ugandan Population and not yet approved.\n"
             "- High Risk: prioritize confirmatory fasting glucose or HbA1c.\n"
             "- Moderate Risk: lifestyle counselling and follow-up.\n"
-            "- Low Risk: reassurance and general health advice."
+            "- Low Risk: reassurance and general health advice.\n"
+            "- Developed by: Dr. Bashir Ssuna and Prof. Bahendeka Silver"
         )
+
